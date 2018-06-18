@@ -1,6 +1,6 @@
 # dvdtoiso
 
-This copies unencrypted dvd and unencrypted cdrom disk to iso: <br />
+This copies unencrypted dvd and unencrypted cdrom disk to iso.  Should also work with unencrypted bluray: <br />
 <br />
 You will need bash, isoinfo, gawk, dd, and md5sum. <br />
 <br />
