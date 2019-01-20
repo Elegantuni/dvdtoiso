@@ -11,4 +11,4 @@ Run: <br />
 $ chmod +x isomaker.bash <br />
 <br />
 Example usage with folders /home/gf/dvdiso/: <br />
-$ isomaker.bash /dev/sr0 /home/gf/dvdiso/disk1.iso <br />
+$ ./isomaker.bash /dev/sr0 /home/gf/dvdiso/disk1.iso <br />
